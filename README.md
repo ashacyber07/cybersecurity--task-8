@@ -41,7 +41,7 @@
    * Helps access blocked websites (e.g., government-censored or geo-blocked content)
    * Helps in ethical hacking, cybersecurity research, and penetration testing
 
-# 🔐 VPN Features (Short Points)
+# 🔐 VPN Features 
   * Encryption – Secures your data from hackers and surveillance.
   * IP Masking – Hides your real IP address and location.
   * Secure Tunneling – Creates a private path for your internet traffic.
